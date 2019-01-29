@@ -5,6 +5,8 @@ date:   2019-01-29 16:43:00
 categories:
 --- 
 
+Before Joyce left, she showed me this strange document which she found, forgotten for some time in the Theology Department supply closet. Below is my best attempt at translating the Latin:
+
 
 
 L I S T E N  carefully, my child,
