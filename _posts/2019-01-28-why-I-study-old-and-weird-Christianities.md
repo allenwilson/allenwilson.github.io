@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Textual Criticism of 1 Corinthians 13:3
+title:  Why I study Old Weird Christianities
 date:   2019-01-25 20:55:00
 categories:
 ---
