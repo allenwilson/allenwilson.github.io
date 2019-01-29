@@ -1,4 +1,10 @@
-# Regula Caffeae Fordhamensis
+---
+layout: post
+title:  Regula Caffeae Fordhamensis
+date:   2019-01-29 16:43:00
+categories:
+--- 
+
 
 
 L I S T E N  carefully, my child,
