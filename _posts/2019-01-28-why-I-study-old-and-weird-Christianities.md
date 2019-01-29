@@ -172,4 +172,3 @@ Who writes and speaks about the past with the same family of ghosts looking over
 ## Related readings
 
 
-[Textual Criticism of 1 Corinthians]({% post_url 2019-01-25-textual-criticism-1-corinthians.md %})
