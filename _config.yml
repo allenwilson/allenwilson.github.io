@@ -6,10 +6,16 @@
 name: Allen Wilson
 
 # Short bio or description (displayed in the header)
-description: PhD Student in Early Christianity at Fordham University
+description: PhD Student in Early Christianity
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/9708359?s=400&v=4
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+
 #
 # Flags below are optional
 #
@@ -17,18 +23,20 @@ avatar: https://avatars0.githubusercontent.com/u/9708359?s=400&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: awilson65@fordham.edu
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: allenwilson
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: AGWilsonn
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  
+
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -52,7 +60,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
@@ -83,5 +91,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-minimal
