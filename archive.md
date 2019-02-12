@@ -7,3 +7,9 @@
 
 
 2019-01-29-Regula-Caffeae-Fordhamensis
+
+
+
+[Research Workflow](https://allenwilson.github.io/2019/02/12/Research-Workflow.html)
+
+[Regula Caffeae Fordhamensis](https://allenwilson.github.io/2019/01/29/Regula-Caffeae-Fordhamensis.html)
