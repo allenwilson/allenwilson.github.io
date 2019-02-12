@@ -13,8 +13,8 @@ Identify phases of the knowledge cycle:
 4. Write
 
    
-
-The zettelkasten takes place in step 3 and the "in-between" of 4. The fourth category is slippery. Misconceptions about it throw up the most common road blocks to the flow of the knowledge cycle. 
+Steps 1 and two are my interactions with the outside world, new ideas, and new people.
+The work of thinking, processing, and problem solving takes place in 3 and the "in-between" of 4. The fourth category is slippery. Misconceptions about it throw up the most common road blocks to the flow of the knowledge cycle. 
 
 In a way, each phase is not an object in and of itself. This is perhaps why they always feel incomplete– increasing anxiety.
 
