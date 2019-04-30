@@ -6,9 +6,6 @@
 [Why I study Old and Weird Christianities](https://allenwilson.github.io/why-I-study-old-and-weird-Christianities/)
 
 
-2019-01-29-Regula-Caffeae-Fordhamensis
-
-
 
 [Research Workflow](https://allenwilson.github.io/2019/02/12/Research-Workflow.html)
 
