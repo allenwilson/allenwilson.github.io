@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 In the past I graduated from the University of Tennessee Knoxville, where I majored in Latin and minored in Greek and Religious Studies. I wrote some songs and recorded an album while I was there too. I then spent some time thinking and writing at Harvard Divinity School where I earned my Masters in Theological Studies. I am now pursuing a PhD in the History of Theology at Fordham University.
