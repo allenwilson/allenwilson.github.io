@@ -1,8 +1,9 @@
 # Site settings
 title: Allen Wilson
 description: >
-    Hi, I'm Allen 
-    I write about ideas in the past that haunt and help. 
+    Hi, I'm Allen.
+     
+    I write about ideas in the past that haunt and help me. 
 author: Allen Wilson
 email: 
 baseurl: "" # the subpath of your site, e.g. /blog
