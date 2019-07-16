@@ -17,8 +17,11 @@ Fordham University
 
 ## Education
 Bearden High School
+
 University of Tennessee
+
 Harvard Divinity School
+
 Fordham University
 
 ### Contact me
